@@ -7,9 +7,11 @@
 The purpose of these analyses is to make a business decision based on the place's weather condition, which means analyzing seasonal weather for Oahu island. In addition to that, these analyses are comprising of the weather change of June and December. 
 ## Results
   - For June is the total count 1700, the mean 74.94-degree, the min 64-degree, and finally the max 85.00-degree. 
+
 <p align="left"><https://github.com/zkirsan/surfs_up/blob/main/Resources/June_Temps.PNG"></img></p>
   
   - For December is the total count 1517, the mean 71.04 degree, the min 56 degree, and finally the max 83.00 degrees.
+
 <p align="left"><https://github.com/zkirsan/surfs_up/blob/main/Resources/Dec_Temps.PNG"></img></p>
   
   - The standart deviation for June and December is 3.25 and 3.74, respectively. 
