@@ -8,11 +8,11 @@ The purpose of these analyses is to make a business decision based on the place'
 ## Results
   - For June is the total count 1700, the mean 74.94-degree, the min 64-degree, and finally the max 85.00-degree. 
 
-<p align="left"><https://github.com/zkirsan/surfs_up/blob/1bdd4a082197015e57d33c9104b4d92adace1a47/Resources/June_Temps.PNG"></img></p>
+<p align="center"><https://github.com/zkirsan/surfs_up/blob/1bdd4a082197015e57d33c9104b4d92adace1a47/Resources/June_Temps.PNG"></img></p>
   
   - For December is the total count 1517, the mean 71.04 degree, the min 56 degree, and finally the max 83.00 degrees.
 
-<p align="left"><https://github.com/zkirsan/surfs_up/blob/main/Resources/Dec_Temps.PNG"></img></p>
+<p align="center"><https://github.com/zkirsan/surfs_up/blob/main/Resources/Dec_Temps.PNG"></img></p>
   
   - The standart deviation for June and December is 3.25 and 3.74, respectively. 
 
