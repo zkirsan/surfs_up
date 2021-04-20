@@ -14,6 +14,8 @@ The purpose of these analyses is to make a business decision based on the place'
 
 ## Summary
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+
+
 <p align="center"><https://github.com/zkirsan/surfs_up/blob/1bdd4a082197015e57d33c9104b4d92adace1a47/Resources/June_Temps.PNG"></img></p>
 
 <p align="center"><https://github.com/zkirsan/surfs_up/blob/main/Resources/Dec_Temps.PNG"></img></p>
