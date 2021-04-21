@@ -19,6 +19,6 @@ The purpose of these analyses is to make a business decision based on the place'
 
 
 ## Summary
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+In order to make a decision about opening the surf and ice cream business was done the analyses, which are June and December temperature changes. The month of June shows that the place has an average of 74 degrees, and also there is a 21-degree difference between max temperature and min temperature. The month of December illustrates that the average temperature is 71-degree. When looking at the two-month data that there are no big temperature changes between the months. Though the business idea needs more analysis about the location which is suitable or not. Especially, we need more data about the place, which has to show the businesses' location over there. 
 
 
